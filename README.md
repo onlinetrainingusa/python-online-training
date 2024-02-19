@@ -15,5 +15,3 @@ In a competitive job market, having a Python certification provides a competitiv
 
 5. Global Recognition:
 Python certifications are recognized globally. Whether you're seeking opportunities in your local job market or aiming for an international career, a Python certification adds a layer of global recognition to your skill set.
-
-for more, visit: https://www.h2kinfosys.com/courses/python-online-training/
